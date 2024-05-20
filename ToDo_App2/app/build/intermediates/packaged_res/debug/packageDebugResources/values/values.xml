@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#333C4B</color>
+    <color name="colorPrimarySub">#4A4C5C</color>
+    <color name="colorSub">#D4A056</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ToDo_App</string>
+    <style name="Base.Theme.ToDo_App" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ToDo_App" parent="Base.Theme.ToDo_App"/>
+</resources>

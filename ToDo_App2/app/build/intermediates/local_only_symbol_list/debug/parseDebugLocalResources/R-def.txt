@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color colorPrimary
+color colorPrimarySub
+color colorSub
+color white
+drawable baseline_add_24
+drawable baseline_delete_24
+drawable baseline_download_done_24
+drawable baseline_edit_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnAddTask
+id chkBox
+id edittext
+id edittitle
+id fab
+id main
+id recyclerView
+id textView
+id titleTask
+layout activity_main
+layout activity_splash
+layout add_newtask
+layout task_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ToDo_App
+style Theme.ToDo_App
+xml backup_rules
+xml data_extraction_rules
